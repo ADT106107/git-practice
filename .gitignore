@@ -1,0 +1,6 @@
+secret.yml
+
+config/database.yml
+
+/db/*.html
+
